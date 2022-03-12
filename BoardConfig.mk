@@ -21,7 +21,7 @@
 DEVICE_PATH := device/samsung/starqltechn
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := starqltechn
+TARGET_OTA_ASSERT_DEVICE := starqltechn,starqlte
 
 # Kernel
 TARGET_KERNEL_CONFIG := starqlte_chn_open_defconfig
